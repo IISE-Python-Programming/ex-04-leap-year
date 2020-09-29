@@ -4,9 +4,6 @@ def main():
     if : 
         
     elif : 
-        if : 
-            
-        else:
             
     else:
         
